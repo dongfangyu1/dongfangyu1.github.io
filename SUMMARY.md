@@ -10,7 +10,7 @@
   * [编辑指导](pages/bian-ji-zhi-dao.md)
   * [git](pages/git.md)
     * [git生成公钥](pages/git/gitsheng-cheng-gong-yao.md)
-  * gitbook
+  * [gitbook](pages/gitbook.md)
 * [my](my.md)
   * [index](my/index.md)
 
