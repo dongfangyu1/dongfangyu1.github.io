@@ -23,35 +23,21 @@ gitbook仓库克隆地址,只支持https方式克隆
 本地编译生成html
 ```
 
-
-
-
-
 github
 
+```
+github只保存gitbook生成的html
 
+原始md文件不保存
+```
 
-    github只保存gitbook生成的html
+码云
 
+```
+码云只保存gitbook生成的html
 
-
-    原始md文件不保存
-
-
-
-
-
-
-
-码云    
-
-
-
-    码云只保存gitbook生成的html
-
-
-
-    原始md文件不保存
+原始md文件不保存
+```
 
 
 
