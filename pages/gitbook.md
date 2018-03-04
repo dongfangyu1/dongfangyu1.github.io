@@ -6,5 +6,11 @@ https://www.gitbook.com
 https://dongfangyu1.gitbooks.io/mybook
 ```
 
+gitbook仓库克隆地址
+
+```
+https://git.gitbook.com/dongfangyu1/mybook.git
+```
+
 
 
