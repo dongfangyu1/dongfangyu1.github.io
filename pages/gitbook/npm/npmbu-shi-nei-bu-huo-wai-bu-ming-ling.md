@@ -67,14 +67,12 @@ npm i gulp -g
 gulp -v
 ```
 
-安装express
+安装express检查问题是否修复
 
 ```
 npm i express -g
 npm i express-generator -g
 ```
-
-
 
 npm镜像
 
