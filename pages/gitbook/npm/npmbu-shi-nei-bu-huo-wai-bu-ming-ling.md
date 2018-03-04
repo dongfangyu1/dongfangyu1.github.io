@@ -67,13 +67,14 @@ npm i gulp -g
 gulp -v
 ```
 
-
-
 安装express
 
+```
 npm i express -g
-
 npm i express-generator -g
+```
+
+
 
 npm镜像
 
