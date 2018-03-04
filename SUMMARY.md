@@ -1,7 +1,5 @@
 # Summary
 
-[my](my.md)
-  [index](my/index.md)
 * [Introduction](README.md)
   * [仓库总览](仓库总览.md)
 
