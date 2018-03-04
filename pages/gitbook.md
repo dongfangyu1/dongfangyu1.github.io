@@ -36,16 +36,16 @@ gitbook安装流程
   gitbook -h
   ```
 
-*  初始化 GitBook
+* 初始化 GitBook
 
 ```
-创建 mygitbook 文件夹，并切换到这个文件夹下面
+创建 mygitbook 文件夹，并切换到这个文件夹下面
 mkdir mygitbook &&cd mygitbook
 
 初始化gitbook工作目录,创建必要的文件
 gitbook init
 
-开启本地服务器
+开启本地服务器,自动构建工程
 gitbook serve
 
 浏览器访问 
@@ -53,33 +53,38 @@ http://localhost:4000/
 http://127.0.0.1:4000/
 ```
 
-               
+*  转换为PDF格式
+* ```
+  检查pdf转换是否正常 
+  ```
+
+```
+               检查pdf转换是否正常
+```
+
+               gitbook pdf
 
 
 
-                 
+
+
+               下载pdf转换包
+
+               https://calibre-ebook.com/download\\_windows
 
 
 
-               
+               转换命令
 
-                 
-
-
-
-               
-
-				
-
-				 构建工程命令
-
-				 gitbook build
+               gitbook pdf mygitbook mygitbook/mygitbook.pdf 
 
 
 
-             
+构建工程命令
 
-
+```
+ gitbook build
+```
 
 升级gitbook
 
@@ -90,7 +95,7 @@ gitbook update
 下载gitbook桌面编辑器
 
 ```
-https://www.gitbook.com/editor/ 
+https://www.gitbook.com/editor/
 ```
 
 
