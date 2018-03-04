@@ -29,11 +29,17 @@ npm config set registry http://w3cloudnkg-sit1.huawei.com/ccloud/nexus/content/g
      dongfangyu.page.huawei.com
 ```
 
+本地git仓库目录
+
+```
+D:\workspace\gitbook\gitbook
+```
+
+ 本地编辑目录
+
+```
+D:\workspace\mybook\Import\serviceombook
+```
 
 
-             
-
-
-
-             
 
