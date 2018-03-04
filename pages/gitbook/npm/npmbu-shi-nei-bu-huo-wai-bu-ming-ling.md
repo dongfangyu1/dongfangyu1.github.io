@@ -72,6 +72,7 @@ gulp -v
 ```
 npm i express -g
 npm i express-generator -g
+express -v
 ```
 
 npm镜像
