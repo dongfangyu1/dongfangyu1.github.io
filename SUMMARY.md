@@ -9,7 +9,7 @@
   * [码云page](pages/ma-yun-page.md)
   * [编辑指导](pages/bian-ji-zhi-dao.md)
   * [git](pages/git.md)
-    * git生成公钥
+    * [git生成公钥](pages/git/gitsheng-cheng-gong-yao.md)
 * [my](my.md)
   * [index](my/index.md)
 
