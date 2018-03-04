@@ -1,10 +1,14 @@
-代码提交流程
+代码提交流程c
 
-    git status
+```
+git status
 
-    git add --all
+git add --all
 
-    git commit -m "my book"
+git commit -m "my book"
 
-    git push -u origin master
+git push -u origin master
+```
+
+
 
