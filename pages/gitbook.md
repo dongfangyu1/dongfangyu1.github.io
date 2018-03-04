@@ -54,33 +54,16 @@ http://127.0.0.1:4000/
 ```
 
 * 转换为PDF格式
-* ```
-  检查pdf转换是否正常
-  gitbook pdf
-
-  下载pdf转换包
-  https://calibre-ebook.com/download\\_windows
-
-  转换命令
-  gitbook pdf mygitbook mygitbook/mygitbook.pdf         
-  ```
 
 ```
-           gitbook pdf
+ 检查pdf转换是否正常 
+ gitbook pdf
+  
+下载pdf转换包
+https://calibre-ebook.com/download\\_windows
 
-
-
-
-
-           下载pdf转换包
-
-           https://calibre-ebook.com/download\\_windows
-
-
-
-           转换命令
-
-           gitbook pdf mygitbook mygitbook/mygitbook.pdf 
+转换命令
+gitbook pdf mygitbook mygitbook/mygitbook.pdf
 ```
 
 构建工程命令
