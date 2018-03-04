@@ -12,5 +12,10 @@ gitbook仓库克隆地址
 https://git.gitbook.com/dongfangyu1/mybook.git
 ```
 
+gitbook安装流程
+
+* 下载nodejs
+   https://nodejs.org/zh-cn/download/current/
+
 
 

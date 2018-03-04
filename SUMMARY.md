@@ -15,4 +15,5 @@
 * [my](my.md)
   * [index](my/index.md)
 * [huawei](huawei.md)
+  * [gitbookpage](huawei/gitbookpage.md)
 
