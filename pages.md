@@ -5,17 +5,15 @@
 gitbook流程
 
 ```
-
     gitbook通过本地编辑,可以自动将文件push到gitbug.
 
     gitbook仓库克隆地址,只支持https方式克隆
 
         https://git.gitbook.com/dongfangyu1/mybook.git
-
+        
     本地编译生成html
-
-
-
+    
+    
 github
 
     github只保存gitbook生成的html
