@@ -61,11 +61,13 @@ npm root -g
 
 重启cmd,安装gulp插件
 
+```
 npm i gulp -g
-
 检查是否安装成功
-
 gulp -v
+```
+
+
 
 安装express
 
