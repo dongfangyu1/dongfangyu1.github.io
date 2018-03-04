@@ -2,10 +2,11 @@
 
 博客代码提交操作流程:
 
-```
 gitbook流程
 
-       gitbook通过本地编辑,可以自动将文件push到gitbug.
+```
+
+    gitbook通过本地编辑,可以自动将文件push到gitbug.
 
     gitbook仓库克隆地址,只支持https方式克隆
 
