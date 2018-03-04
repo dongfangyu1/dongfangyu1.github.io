@@ -14,8 +14,8 @@
     * [npm](pages/gitbook/npm.md)
       * [npm不是内部或外部命令](pages/gitbook/npm/npmbu-shi-nei-bu-huo-wai-bu-ming-ling.md)
 
- [my](my.md)
-   [index](my/index.md)
+* [my](my.md)
+  * [index](my/index.md)
 
 * [huawei](huawei.md)
 
