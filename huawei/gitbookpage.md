@@ -11,14 +11,29 @@ https://yuzeshan.gitbooks.io/gitbook-studying/publish/gitpages.html
 cmd窗口配置npm代理:
 
 ```
-npm config rm proxy
+npm config rm proxy
 npm config rm http-proxy
 npm config rm https-proxy
 npm config set no-proxy.huawei.com
 npm config set registry http://w3cloudnkg-sit1.huawei.com/ccloud/nexus/content/groups/npm-all/
 ```
 
-         
+创建git page
+
+```
+ http://pages.huawei.com/codeclub/guides/tools\_code\_pages
+ 浏览器访问
+     http://pages.huawei.com/serviceom/gitbook/
+ 自定义域名访问
+     http://serviceom.page.huawei.com/
+     dongfangyu.page.huawei.com
+```
 
 
+
+             
+
+
+
+             
 
